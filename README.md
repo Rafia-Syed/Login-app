@@ -15,4 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+Register Screen
 ![alt_Text](https://github.com/Rafia-Syed/Login-app/blob/main/registerScreen.JPG?raw=true)
+
+Login Screen
+![alt_text](https://github.com/Rafia-Syed/Login-app/blob/main/welcomeScreen.JPG?raw=true)
